@@ -3,3 +3,8 @@
 The `cats-human-situations.csv` file contains metadata for three image objects.
 The original metadata from the source institutions has been abbreviated and made
 messier so you have something to clean up!
+
+The associated images are in the 'images/' subdirectory
+
+Cleanup plan
+Changed all upper case to initial cap and lower case
