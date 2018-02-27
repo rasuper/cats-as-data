@@ -11,4 +11,4 @@ Changed all upper case to initial cap and lower case
 
 This file has been modified.
 
-And modified again.
+And modified.
